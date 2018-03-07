@@ -3,6 +3,8 @@ project:
     package:
         name: hedasbtestextumg
         namespace: hedsebtestext2
+	dependencies:
+        - github: https://github.com/SalesforceFoundation/HEDAP
 orgs:
     scratch:
         dev_namespaced:
