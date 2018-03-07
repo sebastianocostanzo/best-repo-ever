@@ -1,9 +1,9 @@
 project:
-    name: best-repo-ever
+    name: metaci 
     package:
         name: hedasbtestextumg
         namespace: hedsebtestext2
-     dependencies:
+    dependencies:
         - github: https://github.com/SalesforceFoundation/HEDAP
 orgs:
     scratch:
